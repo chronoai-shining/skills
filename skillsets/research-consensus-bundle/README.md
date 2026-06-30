@@ -9,7 +9,7 @@
 A curated multi-skill Claude Code plugin. Edits here are NOT propagated
 back; manage this skillset on Ornn.
 
-- Latest version: `1.7`
+- Latest version: `1.8`
 - Skills bundled: 4
 
 ## Master prompt

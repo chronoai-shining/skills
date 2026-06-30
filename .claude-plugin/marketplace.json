@@ -46,7 +46,7 @@
       "name": "research-consensus-bundle",
       "source": "./skillsets/research-consensus-bundle",
       "description": "Curated agent-manual set for consensus comparison across CLI + HTTP variants (demo).",
-      "version": "1.7",
+      "version": "1.8",
       "keywords": [
         "research",
         "consensus",
