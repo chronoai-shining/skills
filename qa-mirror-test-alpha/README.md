@@ -1,6 +1,6 @@
 # qa-mirror-test-alpha
 
-> QA E2E test skill alpha — verifies mirror plugin export. Marker REV-A.
+> QA E2E test skill alpha — verifies mirror plugin export. Marker REV-B.
 
 ---
 
@@ -8,8 +8,8 @@
 
 Edits here are NOT propagated back. Submit changes on Ornn.
 
-- Latest version: `1.0`
-- Last synced: `2026-06-30T09:05:11.297Z`
+- Latest version: `1.1`
+- Last synced: `2026-06-30T09:05:44.953Z`
 
 ## Install
 
