@@ -53,6 +53,15 @@
       ]
     },
     {
+      "name": "qa-rev-test",
+      "source": "./skillsets/qa-rev-test",
+      "description": "Fresh skillset to re-test revision bump on member exclusion (#1165).",
+      "version": "1.0",
+      "keywords": [
+        "qa"
+      ]
+    },
+    {
       "name": "qa-set-m1",
       "source": "./qa-set-m1",
       "description": "QA skillset member qa-set-m1 — used to test member-private exclusion.",
@@ -65,6 +74,15 @@
       "name": "qa-set-m2",
       "source": "./qa-set-m2",
       "description": "QA skillset member qa-set-m2 — used to test member-private exclusion.",
+      "version": "1.0",
+      "keywords": [
+        "qa"
+      ]
+    },
+    {
+      "name": "qa-set-m3",
+      "source": "./qa-set-m3",
+      "description": "QA skillset member qa-set-m3 — used to test member-private exclusion.",
       "version": "1.0",
       "keywords": [
         "qa"
