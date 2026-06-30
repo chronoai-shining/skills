@@ -1,0 +1,6 @@
+{
+  "name": "research-consensus-bundle",
+  "displayName": "research-consensus-bundle",
+  "version": "1.7+sk350c5e7e",
+  "description": "Curated agent-manual set for consensus comparison across CLI + HTTP variants (demo)."
+}
