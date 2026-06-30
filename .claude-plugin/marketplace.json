@@ -71,6 +71,15 @@
       ]
     },
     {
+      "name": "qa-set-m3",
+      "source": "./qa-set-m3",
+      "description": "QA skillset member qa-set-m3 — used to test member-private exclusion.",
+      "version": "1.0",
+      "keywords": [
+        "qa"
+      ]
+    },
+    {
       "name": "qa-test-skillset",
       "source": "./skillsets/qa-test-skillset",
       "description": "QA E2E skillset for member-private exclusion + auto-revision test.",
