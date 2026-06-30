@@ -1,0 +1,5 @@
+{
+  "name": "ornn-agent-manual",
+  "version": "2.3",
+  "description": "Operational manual for AI agents using the Ornn skill-lifecycle API. Loads as a skill so that, once installed, the host agent can search / pull / execute / build / upload / share skills via the NyxID CLI without further setup. Authoritative contract between Ornn and the agent. Pair this file with references/api-reference.md (the full per-endpoint catalogue and error legend) — both ship together as one Ornn skill."
+}

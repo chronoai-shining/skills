@@ -1,0 +1,52 @@
+{
+  "name": "skills",
+  "owner": {
+    "name": "chronoai-shining"
+  },
+  "plugins": [
+    {
+      "name": "ornn-agent-manual",
+      "source": "./ornn-agent-manual",
+      "description": "Operational manual for AI agents using the Ornn skill-lifecycle API. Loads as a skill so that, once installed, the host agent can search / pull / execute / build / upload / share skills via the NyxID CLI without further setup. Authoritative contract between Ornn and the agent. Pair this file with references/api-reference.md (the full per-endpoint catalogue and error legend) — both ship together as one Ornn skill.",
+      "version": "2.3",
+      "keywords": [
+        "ornn-api",
+        "agent",
+        "manual",
+        "skill-lifecycle"
+      ]
+    },
+    {
+      "name": "ornn-agent-manual-cli",
+      "source": "./ornn-agent-manual-cli",
+      "description": "Operational manual for AI agents using the Ornn skill-lifecycle API via the NyxID CLI (`nyxid proxy request ornn-api …`). Once loaded, the host agent can search / pull / execute / build / upload / share skills end-to-end without further setup. Authoritative contract between Ornn and the agent. Pair this file with references/api-reference.md (the full per-endpoint catalogue + error legend) — both ship together as one Ornn skill.",
+      "version": "1.1",
+      "keywords": [
+        "ornn-api",
+        "agent",
+        "manual",
+        "skill-lifecycle",
+        "cli"
+      ]
+    },
+    {
+      "name": "ornn-agent-manual-http",
+      "source": "./ornn-agent-manual-http",
+      "description": "Operational manual for AI agents using the Ornn skill-lifecycle API via direct HTTPS with a NyxID bearer token (`curl -H \"Authorization: Bearer $TOKEN\" …`). Once loaded, the host agent can search / pull / execute / build / upload / share skills end-to-end. Authoritative contract between Ornn and the agent. Pair this file with references/api-reference.md (the full per-endpoint catalogue + error legend) — both ship together as one Ornn skill.",
+      "version": "1.0",
+      "keywords": [
+        "ornn-api",
+        "agent",
+        "manual",
+        "skill-lifecycle",
+        "http"
+      ]
+    },
+    {
+      "name": "testtest",
+      "source": "./testtest",
+      "description": "testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest",
+      "version": "1.3"
+    }
+  ]
+}

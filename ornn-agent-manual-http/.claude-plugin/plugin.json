@@ -1,0 +1,5 @@
+{
+  "name": "ornn-agent-manual-http",
+  "version": "1.0",
+  "description": "Operational manual for AI agents using the Ornn skill-lifecycle API via direct HTTPS with a NyxID bearer token (`curl -H \"Authorization: Bearer $TOKEN\" …`). Once loaded, the host agent can search / pull / execute / build / upload / share skills end-to-end. Authoritative contract between Ornn and the agent. Pair this file with references/api-reference.md (the full per-endpoint catalogue + error legend) — both ship together as one Ornn skill."
+}
