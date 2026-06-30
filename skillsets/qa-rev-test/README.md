@@ -1,10 +1,10 @@
-# qa-test-skillset
+# qa-rev-test
 
-> QA E2E skillset for member-private exclusion + auto-revision test.
+> Fresh skillset to re-test revision bump on member exclusion (#1165).
 
 ---
 
-**Mirrored from [Ornn](https://ornn.ornn-cluster.local/skillsets/qa-test-skillset) — read-only.**
+**Mirrored from [Ornn](https://ornn.ornn-cluster.local/skillsets/qa-rev-test) — read-only.**
 
 A curated multi-skill Claude Code plugin. Edits here are NOT propagated
 back; manage this skillset on Ornn.
@@ -16,7 +16,7 @@ back; manage this skillset on Ornn.
 
 How an agent should orchestrate the members of this set:
 
-Use qa-set-m1, then qa-set-m2, then qa-set-m3 in order to complete the QA flow.
+Run m1, m2, m3 in order.
 
 ## Skills in this plugin
 
@@ -36,7 +36,7 @@ NOT bundled in this public plugin:
 
 ```bash
 /plugin marketplace add chronoai-shining/skills
-/plugin install qa-test-skillset@skills
+/plugin install qa-rev-test@skills
 ```
 
 > Third-party marketplaces default to auto-update OFF. Enable it in

@@ -1,0 +1,5 @@
+{
+  "name": "qa-rev-test",
+  "version": "1.1",
+  "description": "Fresh skillset to re-test revision bump on member exclusion (#1165)."
+}
