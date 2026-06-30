@@ -43,16 +43,6 @@
       ]
     },
     {
-      "name": "qa-mirror-test-alpha",
-      "source": "./qa-mirror-test-alpha",
-      "description": "QA E2E test skill alpha — verifies mirror plugin export. Marker REV-B.",
-      "version": "1.1",
-      "keywords": [
-        "qa",
-        "mirror-test"
-      ]
-    },
-    {
       "name": "research-consensus-bundle",
       "source": "./skillsets/research-consensus-bundle",
       "description": "Curated agent-manual set for consensus comparison across CLI + HTTP variants (demo).",
