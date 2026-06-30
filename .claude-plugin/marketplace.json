@@ -62,24 +62,6 @@
       ]
     },
     {
-      "name": "qa-set-m2",
-      "source": "./qa-set-m2",
-      "description": "QA skillset member qa-set-m2 — used to test member-private exclusion.",
-      "version": "1.0",
-      "keywords": [
-        "qa"
-      ]
-    },
-    {
-      "name": "qa-test-skillset",
-      "source": "./skillsets/qa-test-skillset",
-      "description": "QA E2E skillset for member-private exclusion + auto-revision test.",
-      "version": "1.1",
-      "keywords": [
-        "qa"
-      ]
-    },
-    {
       "name": "research-consensus-bundle",
       "source": "./skillsets/research-consensus-bundle",
       "description": "Curated agent-manual set for consensus comparison across CLI + HTTP variants (demo).",
